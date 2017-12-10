@@ -3,12 +3,12 @@
 	<xsl:template match="/">
 		<table id="table">
 					<tr>
-						<th>Division</th>
-						<th>Date</th>
-						<th>Time</th>
-						<th>Fixture</th>
-						<th>Home Team</th>
-   				  <th>Away Team</th>
+						<th onclick="sortTable(0)">Division</th>
+						<th onclick="sortTable(1)">Date</th>
+						<th onclick="sortTable(2)">Time</th>
+						<th onclick="sortTable(3)">Fixture</th>
+						<th onclick="sortTable(4)">Home Team</th>
+   				  <th onclick="sortTable(5)">Away Team</th>
 					</tr>
 					<xsl:for-each select="rows/row">
 							<tr id="{position()}">
