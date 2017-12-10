@@ -65,7 +65,7 @@ router.post('/post/json', function(req, res) {
     // Function to read in XML file, convert it to JSON, add a new object and write back to XML file
     xmlFileToJs('Countries.xml', function(err, result) {
       if (err) throw (err);
-      result.countries.country.push(obj);
+      result.rows.row.push(obj);
       jsToXmlFile('Countries.xml', result, function(err) {
         if (err) console.log(err);
       })
@@ -89,6 +89,8 @@ router.post('/post/delete', function(req, res) {
     xmlFileToJs('Countries.xml', function(err, result) {
       if (err) throw (err);
       console.log(obj.row);
+      result.rows.row.splice(obj.row-1,1);
+      console.log(result); 
       jsToXmlFile('Countries.xml', result, function(err) {
         if (err) console.log(err);
       })

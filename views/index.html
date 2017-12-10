@@ -2,7 +2,7 @@
 <html lang="en" ng-app>
 
 <head>
-  <title>World Countries and Capitals</title>
+  <title>Premier League Fixtures</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/bootstrap-responsive.min.css">
@@ -34,6 +34,16 @@
       background-color:brown;
       color: #FFF;
     }
+    #myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 60%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
   </style>
   <script src="/js/jquery.min.js"></script>
   <script src="/js/bootstrap.min.js"></script>
@@ -80,7 +90,28 @@
     $(document).ready(function() {
       draw_table();
     });
+    
+    //W3 Schools
+    function myFunction() {
+		var input, filter, table, tr, td, i;
+		input = document.getElementById("myInput");
+		filter = input.value.toUpperCase();
+		table = document.getElementById("table");
+		tr = table.getElementsByTagName("tr");
+		for (i = 0; i < tr.length; i++) {
+			td = tr[i].getElementsByTagName("td")[3];
+			if (td) {
+				if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+					tr[i].style.display = "";
+				} else {
+					tr[i].style.display = "none";
+				}
+			}       
+		}
+	}
+    
   </script>
+  
 </head>
 
 <body>
@@ -90,35 +121,45 @@
       </div>
     </div>
     <div class="page-header">
-      <h1>World Countries and Capitals</h1>
+      <h1>Premier League Fixtures</h1>
     </div>
+    
+      <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for Team.." title="Type in a Team Name">
+    
     <div class="row">
+      
       <div id="results" class="span8">
+        
+        
       </div>
+     
       <div class="span4">
         <ul class="nav nav-list well">
           <li>
             <form enctype='application/json' action="/post/json" method="post">
               <div class="field">
-                <input type="text" name="Country_code" placeholder="Country code">
+                <input type="text" name="DIVISION" placeholder="Division">
               </div>
               <div class="field">
-                <input type="text" name="Region" placeholder="Region">
+                <input type="text" name="DATE" placeholder="Date">
               </div>
               <div class="field">
-                <input type="text" name="Name" placeholder="Name">
+                <input type="text" name="TIME" placeholder="Time">
               </div>
               <div class="field">
-                <input type="text" name="Capital" placeholder="Capital">
+                <input type="text" name="FIXTURE" placeholder="Fixture">
               </div>
               <div class="field">
-                <input type="text" name="Phone_code" placeholder="Phone code">
+                <input type="text" name="HOME_TEAM" placeholder="Home Team">
               </div>
               <div class="field">
-                <button type="submit">Submit</button>
+                <input type="text" name="AWAY_TEAM" placeholder="Away Team">
               </div>
+              
+                <button type="submit">Submit</button> 
+                
             </form>
-                <button id="delete">Delete</button>
+              <button id="delete">Delete</button>
           </li>
         </ul>
       </div>
