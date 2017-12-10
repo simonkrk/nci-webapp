@@ -1,3 +1,5 @@
+//This web app was built using https://github.com/mikhail-nci/wad-simple-demo
+// W3Schools
 var http = require('http'),
   path = require('path'),
   express = require('express'),

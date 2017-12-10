@@ -80,12 +80,4 @@
     <HOME_TEAM>Bournemouth</HOME_TEAM>
     <AWAY_TEAM>Watford</AWAY_TEAM>
   </row>
-  <row>
-    <DIVISION>Premier League</DIVISION>
-    <DATE>19/08/2017</DATE>
-    <TIME>15:00</TIME>
-    <FIXTURE>Burnley V West Bromwich Albion </FIXTURE>
-    <HOME_TEAM>Burnley</HOME_TEAM>
-    <AWAY_TEAM>West Bromwich Albion</AWAY_TEAM>
-  </row>
 </rows>
