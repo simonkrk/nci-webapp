@@ -4,30 +4,6 @@
     <DIVISION>Premier League</DIVISION>
     <DATE>12/08/2017</DATE>
     <TIME>15:00</TIME>
-    <FIXTURE>Chelsea V Burnley </FIXTURE>
-    <HOME_TEAM>Chelsea</HOME_TEAM>
-    <AWAY_TEAM>Burnley</AWAY_TEAM>
-  </row>
-  <row>
-    <DIVISION>Premier League</DIVISION>
-    <DATE>12/08/2017</DATE>
-    <TIME>15:00</TIME>
-    <FIXTURE>Everton V Stoke City </FIXTURE>
-    <HOME_TEAM>Everton</HOME_TEAM>
-    <AWAY_TEAM>Stoke City</AWAY_TEAM>
-  </row>
-  <row>
-    <DIVISION>Premier League</DIVISION>
-    <DATE>12/08/2017</DATE>
-    <TIME>15:00</TIME>
-    <FIXTURE>Manchester United V West Ham United </FIXTURE>
-    <HOME_TEAM>Manchester United</HOME_TEAM>
-    <AWAY_TEAM>West Ham United</AWAY_TEAM>
-  </row>
-  <row>
-    <DIVISION>Premier League</DIVISION>
-    <DATE>12/08/2017</DATE>
-    <TIME>15:00</TIME>
     <FIXTURE>Newcastle United V Tottenham Hotspur </FIXTURE>
     <HOME_TEAM>Newcastle United</HOME_TEAM>
     <AWAY_TEAM>Tottenham Hotspur</AWAY_TEAM>
@@ -39,14 +15,6 @@
     <FIXTURE>Southampton V Swansea City </FIXTURE>
     <HOME_TEAM>Southampton</HOME_TEAM>
     <AWAY_TEAM>Swansea City</AWAY_TEAM>
-  </row>
-  <row>
-    <DIVISION>Premier League</DIVISION>
-    <DATE>12/08/2017</DATE>
-    <TIME>15:00</TIME>
-    <FIXTURE>Watford V Liverpool </FIXTURE>
-    <HOME_TEAM>Watford</HOME_TEAM>
-    <AWAY_TEAM>Liverpool</AWAY_TEAM>
   </row>
   <row>
     <DIVISION>Premier League</DIVISION>
@@ -72,6 +40,12 @@
     <HOME_TEAM/>
     <AWAY_TEAM/>
   </row>
-</rows>AWAY_TEAM/>
+  <row>
+    <DIVISION/>
+    <DATE/>
+    <TIME/>
+    <FIXTURE/>
+    <HOME_TEAM/>
+    <AWAY_TEAM/>
   </row>
-</rows>/rows>
+</rows>
