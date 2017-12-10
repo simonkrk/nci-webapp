@@ -1,83 +1,572 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rows>
   <row>
     <DIVISION>Premier League</DIVISION>
-    <DATE>12/08/2017</DATE>
-    <TIME>15:00</TIME>
-    <FIXTURE>Brighton &amp; Hove Albion V Manchester City </FIXTURE>
-    <HOME_TEAM>Brighton &amp; Hove Albion</HOME_TEAM>
-    <AWAY_TEAM>Manchester City</AWAY_TEAM>
-  </row>
-  <row>
-    <DIVISION>Premier League</DIVISION>
-    <DATE>12/08/2017</DATE>
-    <TIME>15:00</TIME>
-    <FIXTURE>Chelsea V Burnley </FIXTURE>
-    <HOME_TEAM>Chelsea</HOME_TEAM>
-    <AWAY_TEAM>Burnley</AWAY_TEAM>
-  </row>
-  <row>
-    <DIVISION>Premier League</DIVISION>
-    <DATE>12/08/2017</DATE>
-    <TIME>15:00</TIME>
-    <FIXTURE>Crystal Palace V Huddersfield Town </FIXTURE>
-    <HOME_TEAM>Crystal Palace</HOME_TEAM>
-    <AWAY_TEAM>Huddersfield Town</AWAY_TEAM>
-  </row>
-  <row>
-    <DIVISION>Premier League</DIVISION>
-    <DATE>12/08/2017</DATE>
-    <TIME>15:00</TIME>
-    <FIXTURE>Everton V Stoke City </FIXTURE>
-    <HOME_TEAM>Everton</HOME_TEAM>
+    <DATE>12/12/2017</DATE>
+    <TIME>19:45</TIME>
+    <FIXTURE>Burnley V Stoke City </FIXTURE>
+    <HOME_TEAM>Burnley</HOME_TEAM>
     <AWAY_TEAM>Stoke City</AWAY_TEAM>
   </row>
   <row>
     <DIVISION>Premier League</DIVISION>
-    <DATE>12/08/2017</DATE>
-    <TIME>15:00</TIME>
-    <FIXTURE>Manchester United V West Ham United </FIXTURE>
+    <DATE>12/12/2017</DATE>
+    <TIME>19:45</TIME>
+    <FIXTURE>Huddersfield Town V Chelsea </FIXTURE>
+    <HOME_TEAM>Huddersfield Town</HOME_TEAM>
+    <AWAY_TEAM>Chelsea</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>12/12/2017</DATE>
+    <TIME>19:45</TIME>
+    <FIXTURE>Swansea City V Manchester City </FIXTURE>
+    <HOME_TEAM>Swansea City</HOME_TEAM>
+    <AWAY_TEAM>Manchester City</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>12/12/2017</DATE>
+    <TIME>19:45</TIME>
+    <FIXTURE>West Ham United V Arsenal </FIXTURE>
+    <HOME_TEAM>West Ham United</HOME_TEAM>
+    <AWAY_TEAM>Arsenal</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>12/12/2017</DATE>
+    <TIME>20:00</TIME>
+    <FIXTURE>Crystal Palace V Watford </FIXTURE>
+    <HOME_TEAM>Crystal Palace</HOME_TEAM>
+    <AWAY_TEAM>Watford</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>12/12/2017</DATE>
+    <TIME>20:00</TIME>
+    <FIXTURE>Manchester United V Bournemouth </FIXTURE>
     <HOME_TEAM>Manchester United</HOME_TEAM>
-    <AWAY_TEAM>West Ham United</AWAY_TEAM>
-  </row>
-  <row>
-    <DIVISION>Premier League</DIVISION>
-    <DATE>12/08/2017</DATE>
-    <TIME>15:00</TIME>
-    <FIXTURE>Newcastle United V Tottenham Hotspur </FIXTURE>
-    <HOME_TEAM>Newcastle United</HOME_TEAM>
-    <AWAY_TEAM>Tottenham Hotspur</AWAY_TEAM>
-  </row>
-  <row>
-    <DIVISION>Premier League</DIVISION>
-    <DATE>12/08/2017</DATE>
-    <TIME>15:00</TIME>
-    <FIXTURE>Southampton V Swansea City </FIXTURE>
-    <HOME_TEAM>Southampton</HOME_TEAM>
-    <AWAY_TEAM>Swansea City</AWAY_TEAM>
-  </row>
-  <row>
-    <DIVISION>Premier League</DIVISION>
-    <DATE>12/08/2017</DATE>
-    <TIME>15:00</TIME>
-    <FIXTURE>Watford V Liverpool </FIXTURE>
-    <HOME_TEAM>Watford</HOME_TEAM>
-    <AWAY_TEAM>Liverpool</AWAY_TEAM>
-  </row>
-  <row>
-    <DIVISION>Premier League</DIVISION>
-    <DATE>12/08/2017</DATE>
-    <TIME>15:00</TIME>
-    <FIXTURE>West Bromwich Albion V Bournemouth </FIXTURE>
-    <HOME_TEAM>West Bromwich Albion</HOME_TEAM>
     <AWAY_TEAM>Bournemouth</AWAY_TEAM>
   </row>
   <row>
     <DIVISION>Premier League</DIVISION>
-    <DATE>19/08/2017</DATE>
+    <DATE>13/12/2017</DATE>
+    <TIME>19:45</TIME>
+    <FIXTURE>Newcastle United V Everton </FIXTURE>
+    <HOME_TEAM>Newcastle United</HOME_TEAM>
+    <AWAY_TEAM>Everton</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>13/12/2017</DATE>
+    <TIME>19:45</TIME>
+    <FIXTURE>Southampton V Leicester City </FIXTURE>
+    <HOME_TEAM>Southampton</HOME_TEAM>
+    <AWAY_TEAM>Leicester City</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>13/12/2017</DATE>
+    <TIME>20:00</TIME>
+    <FIXTURE>Liverpool V West Bromwich Albion </FIXTURE>
+    <HOME_TEAM>Liverpool</HOME_TEAM>
+    <AWAY_TEAM>West Bromwich Albion</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>13/12/2017</DATE>
+    <TIME>20:00</TIME>
+    <FIXTURE>Tottenham Hotspur V Brighton and Hove Albion </FIXTURE>
+    <HOME_TEAM>Tottenham Hotspur</HOME_TEAM>
+    <AWAY_TEAM>Brighton and Hove Albion</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>16/12/2017</DATE>
     <TIME>15:00</TIME>
-    <FIXTURE>Bournemouth V Watford </FIXTURE>
+    <FIXTURE>Arsenal V Newcastle United </FIXTURE>
+    <HOME_TEAM>Arsenal</HOME_TEAM>
+    <AWAY_TEAM>Newcastle United</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>16/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Bournemouth V Liverpool </FIXTURE>
     <HOME_TEAM>Bournemouth</HOME_TEAM>
+    <AWAY_TEAM>Liverpool</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>16/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Brighton and Hove Albion V Burnley </FIXTURE>
+    <HOME_TEAM>Brighton and Hove Albion</HOME_TEAM>
+    <AWAY_TEAM>Burnley</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>16/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Chelsea V Southampton </FIXTURE>
+    <HOME_TEAM>Chelsea</HOME_TEAM>
+    <AWAY_TEAM>Southampton</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>16/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Everton V Swansea City </FIXTURE>
+    <HOME_TEAM>Everton</HOME_TEAM>
+    <AWAY_TEAM>Swansea City</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>16/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Leicester City V Crystal Palace </FIXTURE>
+    <HOME_TEAM>Leicester City</HOME_TEAM>
+    <AWAY_TEAM>Crystal Palace</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>16/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Manchester City V Tottenham Hotspur </FIXTURE>
+    <HOME_TEAM>Manchester City</HOME_TEAM>
+    <AWAY_TEAM>Tottenham Hotspur</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>16/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Stoke City V West Ham United </FIXTURE>
+    <HOME_TEAM>Stoke City</HOME_TEAM>
+    <AWAY_TEAM>West Ham United</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>16/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Watford V Huddersfield Town </FIXTURE>
+    <HOME_TEAM>Watford</HOME_TEAM>
+    <AWAY_TEAM>Huddersfield Town</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>16/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>West Bromwich Albion V Manchester United </FIXTURE>
+    <HOME_TEAM>West Bromwich Albion</HOME_TEAM>
+    <AWAY_TEAM>Manchester United</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>23/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Arsenal V Liverpool </FIXTURE>
+    <HOME_TEAM>Arsenal</HOME_TEAM>
+    <AWAY_TEAM>Liverpool</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>23/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Brighton and Hove Albion V Watford </FIXTURE>
+    <HOME_TEAM>Brighton and Hove Albion</HOME_TEAM>
     <AWAY_TEAM>Watford</AWAY_TEAM>
   </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>23/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Burnley V Tottenham Hotspur </FIXTURE>
+    <HOME_TEAM>Burnley</HOME_TEAM>
+    <AWAY_TEAM>Tottenham Hotspur</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>23/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Everton V Chelsea </FIXTURE>
+    <HOME_TEAM>Everton</HOME_TEAM>
+    <AWAY_TEAM>Chelsea</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>23/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Leicester City V Manchester United </FIXTURE>
+    <HOME_TEAM>Leicester City</HOME_TEAM>
+    <AWAY_TEAM>Manchester United</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>23/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Manchester City V Bournemouth </FIXTURE>
+    <HOME_TEAM>Manchester City</HOME_TEAM>
+    <AWAY_TEAM>Bournemouth</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>23/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Southampton V Huddersfield Town </FIXTURE>
+    <HOME_TEAM>Southampton</HOME_TEAM>
+    <AWAY_TEAM>Huddersfield Town</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>23/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Stoke City V West Bromwich Albion </FIXTURE>
+    <HOME_TEAM>Stoke City</HOME_TEAM>
+    <AWAY_TEAM>West Bromwich Albion</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>23/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Swansea City V Crystal Palace </FIXTURE>
+    <HOME_TEAM>Swansea City</HOME_TEAM>
+    <AWAY_TEAM>Crystal Palace</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>23/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>West Ham United V Newcastle United </FIXTURE>
+    <HOME_TEAM>West Ham United</HOME_TEAM>
+    <AWAY_TEAM>Newcastle United</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>26/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Bournemouth V West Ham United </FIXTURE>
+    <HOME_TEAM>Bournemouth</HOME_TEAM>
+    <AWAY_TEAM>West Ham United</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>26/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Chelsea V Brighton and Hove Albion </FIXTURE>
+    <HOME_TEAM>Chelsea</HOME_TEAM>
+    <AWAY_TEAM>Brighton and Hove Albion</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>26/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Crystal Palace V Arsenal </FIXTURE>
+    <HOME_TEAM>Crystal Palace</HOME_TEAM>
+    <AWAY_TEAM>Arsenal</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>26/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Huddersfield Town V Stoke City </FIXTURE>
+    <HOME_TEAM>Huddersfield Town</HOME_TEAM>
+    <AWAY_TEAM>Stoke City</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>26/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Liverpool V Swansea City </FIXTURE>
+    <HOME_TEAM>Liverpool</HOME_TEAM>
+    <AWAY_TEAM>Swansea City</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>26/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Manchester United V Burnley </FIXTURE>
+    <HOME_TEAM>Manchester United</HOME_TEAM>
+    <AWAY_TEAM>Burnley</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>26/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Newcastle United V Manchester City </FIXTURE>
+    <HOME_TEAM>Newcastle United</HOME_TEAM>
+    <AWAY_TEAM>Manchester City</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>26/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Tottenham Hotspur V Southampton </FIXTURE>
+    <HOME_TEAM>Tottenham Hotspur</HOME_TEAM>
+    <AWAY_TEAM>Southampton</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>26/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Watford V Leicester City </FIXTURE>
+    <HOME_TEAM>Watford</HOME_TEAM>
+    <AWAY_TEAM>Leicester City</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>26/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>West Bromwich Albion V Everton </FIXTURE>
+    <HOME_TEAM>West Bromwich Albion</HOME_TEAM>
+    <AWAY_TEAM>Everton</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>30/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Bournemouth V Everton </FIXTURE>
+    <HOME_TEAM>Bournemouth</HOME_TEAM>
+    <AWAY_TEAM>Everton</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>30/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Chelsea V Stoke City </FIXTURE>
+    <HOME_TEAM>Chelsea</HOME_TEAM>
+    <AWAY_TEAM>Stoke City</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>30/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Crystal Palace V Manchester City </FIXTURE>
+    <HOME_TEAM>Crystal Palace</HOME_TEAM>
+    <AWAY_TEAM>Manchester City</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>30/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Huddersfield Town V Burnley </FIXTURE>
+    <HOME_TEAM>Huddersfield Town</HOME_TEAM>
+    <AWAY_TEAM>Burnley</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>30/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Liverpool V Leicester City </FIXTURE>
+    <HOME_TEAM>Liverpool</HOME_TEAM>
+    <AWAY_TEAM>Leicester City</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>30/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Manchester United V Southampton </FIXTURE>
+    <HOME_TEAM>Manchester United</HOME_TEAM>
+    <AWAY_TEAM>Southampton</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>30/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Newcastle United V Brighton and Hove Albion </FIXTURE>
+    <HOME_TEAM>Newcastle United</HOME_TEAM>
+    <AWAY_TEAM>Brighton and Hove Albion</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>30/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Tottenham Hotspur V West Ham United </FIXTURE>
+    <HOME_TEAM>Tottenham Hotspur</HOME_TEAM>
+    <AWAY_TEAM>West Ham United</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>30/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Watford V Swansea City </FIXTURE>
+    <HOME_TEAM>Watford</HOME_TEAM>
+    <AWAY_TEAM>Swansea City</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>30/12/2017</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>West Bromwich Albion V Arsenal </FIXTURE>
+    <HOME_TEAM>West Bromwich Albion</HOME_TEAM>
+    <AWAY_TEAM>Arsenal</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>01/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Arsenal V Chelsea </FIXTURE>
+    <HOME_TEAM>Arsenal</HOME_TEAM>
+    <AWAY_TEAM>Chelsea</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>01/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Brighton and Hove Albion V Bournemouth </FIXTURE>
+    <HOME_TEAM>Brighton and Hove Albion</HOME_TEAM>
+    <AWAY_TEAM>Bournemouth</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>01/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Burnley V Liverpool </FIXTURE>
+    <HOME_TEAM>Burnley</HOME_TEAM>
+    <AWAY_TEAM>Liverpool</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>01/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Everton V Manchester United </FIXTURE>
+    <HOME_TEAM>Everton</HOME_TEAM>
+    <AWAY_TEAM>Manchester United</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>01/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Leicester City V Huddersfield Town </FIXTURE>
+    <HOME_TEAM>Leicester City</HOME_TEAM>
+    <AWAY_TEAM>Huddersfield Town</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>01/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Manchester City V Watford </FIXTURE>
+    <HOME_TEAM>Manchester City</HOME_TEAM>
+    <AWAY_TEAM>Watford</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>01/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Southampton V Crystal Palace </FIXTURE>
+    <HOME_TEAM>Southampton</HOME_TEAM>
+    <AWAY_TEAM>Crystal Palace</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>01/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Stoke City V Newcastle United </FIXTURE>
+    <HOME_TEAM>Stoke City</HOME_TEAM>
+    <AWAY_TEAM>Newcastle United</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>01/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Swansea City V Tottenham Hotspur </FIXTURE>
+    <HOME_TEAM>Swansea City</HOME_TEAM>
+    <AWAY_TEAM>Tottenham Hotspur</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>01/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>West Ham United V West Bromwich Albion </FIXTURE>
+    <HOME_TEAM>West Ham United</HOME_TEAM>
+    <AWAY_TEAM>West Bromwich Albion</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>13/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Bournemouth V Arsenal </FIXTURE>
+    <HOME_TEAM>Bournemouth</HOME_TEAM>
+    <AWAY_TEAM>Arsenal</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>13/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Chelsea V Leicester City </FIXTURE>
+    <HOME_TEAM>Chelsea</HOME_TEAM>
+    <AWAY_TEAM>Leicester City</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>13/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Crystal Palace V Burnley </FIXTURE>
+    <HOME_TEAM>Crystal Palace</HOME_TEAM>
+    <AWAY_TEAM>Burnley</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>13/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Huddersfield Town V West Ham United </FIXTURE>
+    <HOME_TEAM>Huddersfield Town</HOME_TEAM>
+    <AWAY_TEAM>West Ham United</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>13/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Liverpool V Manchester City </FIXTURE>
+    <HOME_TEAM>Liverpool</HOME_TEAM>
+    <AWAY_TEAM>Manchester City</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>13/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Manchester United V Stoke City </FIXTURE>
+    <HOME_TEAM>Manchester United</HOME_TEAM>
+    <AWAY_TEAM>Stoke City</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>13/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Newcastle United V Swansea City </FIXTURE>
+    <HOME_TEAM>Newcastle United</HOME_TEAM>
+    <AWAY_TEAM>Swansea City</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>13/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Tottenham Hotspur V Everton </FIXTURE>
+    <HOME_TEAM>Tottenham Hotspur</HOME_TEAM>
+    <AWAY_TEAM>Everton</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>13/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Watford V Southampton </FIXTURE>
+    <HOME_TEAM>Watford</HOME_TEAM>
+    <AWAY_TEAM>Southampton</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>13/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>West Bromwich Albion V Brighton and Hove Albion </FIXTURE>
+    <HOME_TEAM>West Bromwich Albion</HOME_TEAM>
+    <AWAY_TEAM>Brighton and Hove Albion</AWAY_TEAM>
+  </row>
+  <row>
+    <DIVISION>Premier League</DIVISION>
+    <DATE>20/01/2018</DATE>
+    <TIME>15:00</TIME>
+    <FIXTURE>Arsenal V Crystal Palace </FIXTURE>
+    <HOME_TEAM>Arsenal</HOME_TEAM>
+    <AWAY_TEAM>Crystal Palace</AWAY_TEAM>
+  </row>
+
 </rows>
