@@ -8,6 +8,9 @@
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/bootstrap-responsive.min.css">
   <style>
+		
+		
+		
     body {
       padding-top: 60px;
       padding-bottom: 60px;
@@ -26,16 +29,18 @@
       border-collapse: collapse;
     }
     td, th {
-      border: 1px solid #999;
-      padding: 0.5rem;
+      border: 1px solid white;
+      padding: 1rem;
       text-align: left;
     }
     th {
       font-weight: bold;
+			background-color:#808080;
+			color: #FFF;
     }
-		tr:hover {background-color: #F0F0F0;}
+		tr:hover {background-color: #F5F5F5;}
     .selected {
-      background-color:#BEBEBE;
+      background-color:#D3D3D3;
       color: #FFF;
     }
     #myInput {
@@ -189,7 +194,6 @@ function sortTable(n) {
     </div>
     
       <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for Team.." title="Type in a Team Name">
-    
     <div class="row">
       
       <div id="results" class="span8">
@@ -228,9 +232,12 @@ function sortTable(n) {
         </ul>
       </div>
 			
+			
 			<div id="placeholder"></div>
 			
+			
     </div>
+		
   </div>
 	
 </body>
